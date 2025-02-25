@@ -13,5 +13,3 @@ This repository contains various UI components and concepts implemented in Flutt
 - [Row, Column, Wrap](#row_column_wrapdart)
 - [Snackbar Widget](#snackbar_widgetdart)
 - [Text and Elevated Button](#textandelevatedbuttondart)
-
----
